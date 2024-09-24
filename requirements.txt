@@ -1,0 +1,4 @@
+python-dotenv==1.0.0   # Para o uso de variáveis de ambiente
+selenium==4.12.0       # Para automação do navegador com Selenium
+tqdm==4.65.0           # Para a barra de progresso
+beautifulsoup4==4.12.2 # para analise de HTML
